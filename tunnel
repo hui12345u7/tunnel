@@ -9,7 +9,7 @@
 
 # --- Configuration ---
 # You can change these values to match your remote server details.
-REMOTE_HOST="13.200.235.245"
+REMOTE_HOST=5"
 REMOTE_USER="ubuntu"
 SSH_PORT="22"
 
